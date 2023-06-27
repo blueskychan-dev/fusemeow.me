@@ -9,3 +9,6 @@
 	note:
 	  my keyboard is fcking gay :(((((
 
+
+203-6-27 23:21 GMT+7:
+	wrapped JS code into IIFE
