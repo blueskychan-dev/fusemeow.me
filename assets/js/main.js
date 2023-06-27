@@ -57,7 +57,7 @@ var today = currentDate.toLocaleString(undefined, options);
 //console.log(age)
   
 document.getElementById("age").innerHTML = `${myage(birthdate)}`;
-console.log("Host in firebase ❤️ (https://firebase.google.com/)")
+console.log("Host in github pages ❤️ (https://pages.github.com/)")
 console.log("---Credit--- \nazuremist_ for development and apporve this code!\ntwistynado for recommends fonts! (also developemnt too :D)\nChatGPT/AI for help me to make this code!\n---Credit---")
 console.log("I wanna be a girl :3")
 console.log("Did you know?\nM.2/4 is gay so much!")
@@ -66,4 +66,6 @@ console.log("if you found it!, try to run this code in your console: ")
 console.log("array.forEach(tell => {\n    console.log(tell);\n});");
 console.log("replace array with the array you found, and see what happens!")
 console.log("good luck to found all! (easy)")
+console.log("UPDATE 27 JUN: my friend (irl), why did you unfriend me?, why we won't talk carefully?");
+console.log("i hope i will still have life while study in this stupid school soical (i think...)");
   
