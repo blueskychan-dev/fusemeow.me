@@ -1,0 +1,11 @@
+2023-6-26 12:43:38 GMT+7:
+	rename: sytle.css > style.css
+	Remove jquery that unused
+	add this changelog.txt
+
+2023-6-26 14:00 GMT+7:
+	Compress the gif background
+	Unit test
+	note:
+	  my keyboard is fcking gay :(((((
+
