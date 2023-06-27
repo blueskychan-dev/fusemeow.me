@@ -5,8 +5,12 @@ function myage(birthdate) {
                (today.getMonth() === birthdate.getMonth() && today.getDate() < birthdate.getDate()));
     return age;
   }
-  
+
+
+
+/*  
     // Create a new Date object
+
 var currentDate = new Date();
 
 // Get the individual components of the date and time
@@ -21,7 +25,24 @@ var seconds = currentDate.getSeconds();
 var dateTimeString = day + '/' + month + '/' + year + ' ' + hours + ':' + minutes + ':' + seconds;
 
 var today = dateTimeString;
-  // why ur cheating?
+*/
+
+
+var currentDate = new Date();
+var options = {
+  day: 'numeric',
+  month: 'numeric',
+  year: 'numeric',
+  hour: 'numeric',
+  minute: 'numeric',
+  second: 'numeric'
+};
+
+var today = currentDate.toLocaleString(undefined, options);
+ 
+
+
+ // why ur cheating?
   var irlfriends24 = ["omsin", "cha (uhh)", "save (dangerous!!!)", "toto (good child)", "dis (unfair!!!!!!!!!)" ]
   var hate = ["back kid boy", "because too gay and try sexual harassment me", "yeah i annoying them."]
   var love = ["liem", "twisty", "is my best freinds :)"]
