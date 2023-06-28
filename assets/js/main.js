@@ -43,7 +43,7 @@ var today = currentDate.toLocaleString(undefined, options);
 
 
  // why ur cheating?
-  var irlfriends24 = ["omsin", "cha (uhh)", "save (dangerous!!!)", "toto (good child)", "dis (unfair!!!!!!!!!)" ]
+  var irlfriends24 = ["omsin", "cha (uhh)", "save (dangerous!!!)", "toto (good child)", "dis (too gay)" ]
   var hate = ["back kid boy", "because too gay and try sexual harassment me", "yeah i annoying them."]
   var love = ["liem", "twisty", "is my best freinds :)"]
   var oneword = ["เสก"]
@@ -66,6 +66,4 @@ console.log("if you found it!, try to run this code in your console: ")
 console.log("array.forEach(tell => {\n    console.log(tell);\n});");
 console.log("replace array with the array you found, and see what happens!")
 console.log("good luck to found all! (easy)")
-console.log("UPDATE 27 JUN: my friend (irl), why did you unfriend me?, why we won't talk carefully?");
-console.log("i hope i will still have life while study in this stupid school soical (i think...)");
   
