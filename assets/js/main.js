@@ -45,7 +45,7 @@ var today = currentDate.toLocaleString(undefined, options);
  // why ur cheating?
   var irlfriends24 = ["omsin", "cha (uhh)", "save (dangerous!!!)", "toto (good child)", "dis (too gay)" ]
   var hate = [""]
-  var love = ["liem", "twisty", "is my best freinds :)"]
+  var love = ["liem", "twisty", "and everyone", "is my best freinds :)"]
   var oneword = ["เสก"]
   
   
@@ -60,7 +60,8 @@ document.getElementById("age").innerHTML = `${myage(birthdate)}`;
 console.log("Host in github pages ❤️ (https://pages.github.com/)")
 console.log("---Credit--- \nazuremist_ for development and apporve this code!\ntwistynado for recommends fonts! (also developemnt too :D)\nChatGPT/AI for help me to make this code!\n---Credit---")
 console.log("I wanna be a girl :3")
-console.log("Trans child (hidden) vs homophobic family")
+console.log("Trans child (hidden) vs transphobia/homophobic family")
+console.log("Trying live with this shit world...")
 console.log("Did you know?\nM.2/4 is gay so much!")
 console.log("EASTEREGG: we have a few arrays in this code, try to find them all!")
 console.log("if you found it!, try to run this code in your console: ")
