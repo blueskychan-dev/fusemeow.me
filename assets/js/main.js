@@ -69,5 +69,5 @@ console.log('%c !! HOLD UP !!', 'color: red; font-size: 50px;');
 console.log('%c This website/script and domain will get the final update in 20 December 2023, after that will no any updates in here, we are moving to https://blueskychan.dev soon! Thanks you for following me :3', 'color: black; background-color: yellow; font-size: 16px;');
 console.log('Whatever, console.log(oneword)')
 setTimeout(function() {
-  alert('I have some news in console tabs, if you are in desktop, Please press F12 now ;-;');
-}, 3000);
+  alert('Please checkout https://blueskychan.dev :3');
+}, 1000);
